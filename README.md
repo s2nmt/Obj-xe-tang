@@ -1,3 +1,3 @@
 # Obj-xe-tang
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lU1CuU-SZrw" frameborder="0" allowfullscreen></iframe>
+https://github.com/s2nmt/Obj-xe-tang/issues/1#issue-1681212717
 
